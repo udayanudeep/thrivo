@@ -1,5 +1,17 @@
 # Thrivo
 
+## Screenshots
+
+<p align="center">
+<img src="play-store/screenshots/steps.png" width="180" alt="Steps tab">
+<img src="play-store/screenshots/water.png" width="180" alt="Water tab">
+<img src="play-store/screenshots/plan.png" width="180" alt="Plan tab">
+<img src="play-store/screenshots/health.png" width="180" alt="Health tab">
+<img src="play-store/screenshots/settings.png" width="180" alt="Settings tab">
+</p>
+
+<p align="center"><img src="play-store/feature-graphic.png" width="720" alt="Thrivo feature graphic"></p>
+
 Android health tracker in Kotlin and Jetpack Compose. It reads the data your Fitbit syncs to Health Connect and turns it into a daily view.
 
 ## What it does
